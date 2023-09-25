@@ -1,0 +1,6 @@
+
+State Machine - |SMOKING|pr_state
+Name pr_state.three pr_state.two pr_state.one 
+pr_state.one 0 0 0 
+pr_state.two 0 1 1 
+pr_state.three 1 0 1 
